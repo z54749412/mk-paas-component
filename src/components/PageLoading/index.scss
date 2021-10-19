@@ -1,0 +1,12 @@
+.PageLoading {
+  &__content {
+    align-content: center;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+  }
+  &__spin {
+    display: initial;
+  }
+}

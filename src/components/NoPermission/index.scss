@@ -1,0 +1,13 @@
+.NoPermission {
+  &__content {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  &__icon {
+    display: inline-block;
+    height: 128px;
+    width: 128px;
+  }
+}
